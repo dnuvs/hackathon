@@ -27,7 +27,7 @@
 | `respondents` | кількість відповідей за групами; для груп менше 5 осіб — «< 5» |
 | `methodology` | посилання на опис методики |
 
-Приклад: `https://integrity-demo.onrender.com/api/cycles/2/summary`
+Приклад: `https://jurisprudence-kamerton.onrender.com/api/cycles/2/summary`
 
 ## Звіти
 
